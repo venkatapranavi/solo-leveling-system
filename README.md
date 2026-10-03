@@ -7,6 +7,7 @@ A dark-fantasy productivity and habit tracking web application inspired by *Solo
 ## 🚀 Live Demo
 🔗 **[Live Application](solo-leveling-system-mvj1-c9x6ljrs1-venkatas-projects-917304fa.vercel.app)**
 
+
 ---
 
 ## ⚡ Core Features
